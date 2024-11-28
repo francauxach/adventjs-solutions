@@ -1,0 +1,27 @@
+{
+  "name": "adventjs-solutions",
+  "version": "1.0.0",
+  "description": "🎅💻️ Solutions to the challenges proposed by @midudev on adventjs.dev",
+  "keywords": [
+    "adventjs",
+    "midudev",
+    "javascript"
+  ],
+  "author": "Franc Auxach Cortés (@francauxach)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francauxach/adventjs-solutions.git"
+  },
+  "homepage": "https://github.com/francauxach/adventjs-solutions#readme",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "vitest": "^2.1.6"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
