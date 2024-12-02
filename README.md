@@ -49,7 +49,7 @@ This repository contains the solutions to the challenges proposed by [@midudev](
 
 ## 🤖 2022
 
-<details open>
+<details close>
 
 <summary>Show / Hide</summary>
 
@@ -82,6 +82,20 @@ This repository contains the solutions to the challenges proposed by [@midudev](
 |  23   |              [Compilador de Papá Noel](2022/challenge-23)              |       🔴        | [Show](2022/challenge-23/solution.js) |
 |  24   |           [El último reto es un laberito](2022/challenge-24)           |       🔴        | [Show](2022/challenge-24/solution.js) |
 
+</details>
+
+## 💻 2024
+
+<details open>
+
+<summary>Show / Hide</summary>
+
+### 🎮️ Challenges
+
+|   #   |                    Challenge                    | Difficulty[^1] |               Solution                |
+| :---: | :---------------------------------------------: | :------------: | :-----------------------------------: |
+|  01   | [🎁 ¡Primer regalo repetido!](2024/challenge-01) |       🟢        | [Show](2024/challenge-01/solution.js) |
+|  02   |   [🖼️ Enmarcando nombres](2024/challenge-02)    |       🟢        | [Show](2024/challenge-02/solution.js) |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
