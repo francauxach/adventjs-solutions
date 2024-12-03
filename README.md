@@ -92,10 +92,11 @@ This repository contains the solutions to the challenges proposed by [@midudev](
 
 ### 🎮️ Challenges
 
-|   #   |                    Challenge                    | Difficulty[^1] |               Solution                |
-| :---: | :---------------------------------------------: | :------------: | :-----------------------------------: |
-|  01   | [🎁 ¡Primer regalo repetido!](2024/challenge-01) |       🟢        | [Show](2024/challenge-01/solution.js) |
-|  02   |   [🖼️ Enmarcando nombres](2024/challenge-02)    |       🟢        | [Show](2024/challenge-02/solution.js) |
+|   #   |                     Challenge                     | Difficulty[^1] |               Solution                |
+| :---: | :-----------------------------------------------: | :------------: | :-----------------------------------: |
+|  01   |  [🎁 ¡Primer regalo repetido!](2024/challenge-01)  |       🟢        | [Show](2024/challenge-01/solution.js) |
+|  02   |    [🖼️ Enmarcando nombres](2024/challenge-02)     |       🟢        | [Show](2024/challenge-02/solution.js) |
+|  03   | [🏗️ Organizando el inventario](2024/challenge-03) |       🟢        | [Show](2024/challenge-03/solution.js) |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
